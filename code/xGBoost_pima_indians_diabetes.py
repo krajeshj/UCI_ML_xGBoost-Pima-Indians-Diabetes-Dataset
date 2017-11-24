@@ -44,7 +44,7 @@
 # F6 - Diabetes pedigree function 
 # F7 - Age (years) 
 # Class variable (0 or 1) 
-
+.
 # ##### import the packages 
 
 # In[1]:
@@ -66,7 +66,7 @@ from xgboost import plot_importance
 
 # In[ ]:
 
-dataset = np.genfromtxt('./data/pima-indians-diabetes.txt',delimiter=",")
+dataset = np.genfromtxt('../data/pima-indians-diabetes.txt',delimiter=",")
 X=  dataset[:,0:8]
 Y = dataset[:,8]
 
