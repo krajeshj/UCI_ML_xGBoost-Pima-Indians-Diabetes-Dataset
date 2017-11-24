@@ -1,6 +1,3 @@
-
-
-
 # Repository : UCI_ML_xGBoost-Pima-Indians-Diabetes-Dataset
 
 ## Title: PIMA INDIANS DIABETES - UCI MACHINE LEARNING REPOSITORY
